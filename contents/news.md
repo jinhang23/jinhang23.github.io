@@ -1,7 +1,3 @@
 - **[Jan 2026]** Started my Ph.D. in Computer Science at the University of Florida!
-- **[2025]** New preprint: *GatorAffinity* -- Boosting Protein-Ligand Binding Affinity Prediction with Large-Scale Synthetic Structural Data. [[bioRxiv]](https://doi.org/10.1101/2025)
-- **[2024]** Our paper on Drug-Target Interaction Prediction was published in *J. Phys. Chem. Lett.* as a **Cover Article**.
-- **[2024]** Paper on Drug Repurposing with LLMs published in *BMC Biology*.
-- **[2024]** Paper on Blood Cancer Diagnosis published in *IEEE JBHI*.
-- **[2024]** Awarded **National Scholarship of China** (top 0.2% nationwide) for the second consecutive year.
-- **[2023]** Paper on miRNA-drug sensitivity prediction published in *Briefings in Bioinformatics*.
+- **[Dec 2025]** Received my B.A. in Computer Science from the University of Minnesota, Twin Cities.
+- **[Mar 2025]** New preprint: *GatorAffinity* -- Boosting Protein-Ligand Binding Affinity Prediction with Large-Scale Synthetic Structural Data. [[bioRxiv]](https://doi.org/10.1101/2025)
