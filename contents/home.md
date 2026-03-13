@@ -6,16 +6,16 @@
 
 #### About Me
 
-Hi, I'm **Jinhang Wei**, a Ph.D. student in Computer Science at the **University of Florida**, advised by Prof. [Yanjun Li](https://scholar.google.com/citations?user=yanjunli). My research focuses on developing **AI and deep learning methods to accelerate drug discovery**, including protein-ligand binding affinity prediction, drug-target interaction modeling, and drug repurposing with large language models.
+Hi, I'm **Jinhang Wei**, a Ph.D. student in Computer Science at the **University of Florida**, advised by Prof. [Yanjun Li](https://scholar.google.com/citations?user=yanjunli). My research interests broadly lie in **AI for Science**, with a current focus on **structure-based modeling of biomolecular interactions** among proteins, RNA, and small molecules. I am also interested in exploring the potential of **AI agents** for scientific discovery.
 
-Previously, I obtained my B.S. in Computer Science from the **University of Minnesota, Twin Cities** and studied at **Wenzhou University of Technology** before transferring. I have published several first-author papers in Q1 journals such as *J. Phys. Chem. Lett.*, *BMC Biol.*, *Brief. Bioinform.*, and *IEEE JBHI*.
+Previously, my work has spanned AI-driven drug discovery, including drug-target interaction prediction, drug repurposing with large language models, and protein-ligand binding affinity prediction.
 
 Feel free to reach out if you'd like to chat about research or collaboration!
 
 #### Education
 
 - **Ph.D. in Computer Science**, University of Florida, 2026 – Present
-- **B.S. in Computer Science**, University of Minnesota, Twin Cities, 2025
+- **B.A. in Computer Science**, University of Minnesota, Twin Cities, 2025
 - **B.S. in Computer Science** (Transfer), Wenzhou University of Technology, 2021 – 2024
 
 #### Links
