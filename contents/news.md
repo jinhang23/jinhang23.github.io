@@ -1,3 +1,3 @@
 - **[Jan 2026]** Started my Ph.D. in Computer Science at the University of Florida!
 - **[Dec 2025]** Received my B.A. in Computer Science from the University of Minnesota, Twin Cities.
-- **[Mar 2025]** New preprint: *GatorAffinity* -- Boosting Protein-Ligand Binding Affinity Prediction with Large-Scale Synthetic Structural Data. [[bioRxiv]](https://doi.org/10.1101/2025)
+- **[Oct 2025]** New preprint: *GatorAffinity* -- Boosting Protein-Ligand Binding Affinity Prediction with Large-Scale Synthetic Structural Data. [[bioRxiv]](https://doi.org/10.1101/2025)
