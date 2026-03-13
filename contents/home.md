@@ -6,24 +6,17 @@
 
 #### About Me
 
-Hi, I'm **Jinhang Wei**, a Ph.D. student in Computer Science at the **University of Florida**. My research interests lie at the intersection of **Computational Biology**, **Artificial Intelligence in Life Sciences**, and **Deep Learning**, with a particular focus on **AI-driven Drug Discovery (AIDD)**.
+Hi, I'm **Jinhang Wei**, a Ph.D. student in Computer Science at the **University of Florida**, advised by Prof. [Yanjun Li](https://scholar.google.com/citations?user=yanjunli). My research focuses on developing **AI and deep learning methods to accelerate drug discovery**, including protein-ligand binding affinity prediction, drug-target interaction modeling, and drug repurposing with large language models.
 
-Previously, I obtained my B.S. in Computer Science from the **University of Minnesota, Twin Cities** (GPA: 3.94/4.0), and studied at **Wenzhou University of Technology** before transferring.
+Previously, I obtained my B.S. in Computer Science from the **University of Minnesota, Twin Cities** and studied at **Wenzhou University of Technology** before transferring. I have published several first-author papers in Q1 journals such as *J. Phys. Chem. Lett.*, *BMC Biol.*, *Brief. Bioinform.*, and *IEEE JBHI*.
 
-I have published 6 first-author Q1 SCI papers in high-impact journals, including:
+Feel free to reach out if you'd like to chat about research or collaboration!
 
-- *J. Phys. Chem. Lett.* (Cover Article, Nature Index)
-- *BMC Biol.*
-- *Brief Bioinform.*
-- *IEEE J. Biomed. Health*, etc.
+#### Education
 
-
-I have served as a reviewer for the following journals:
-
-- *Engineering Applications of Artificial Intelligence*
-- *Expert Systems with Applications*
-- *Information Sciences*
-- *Neurocomputing*, etc.
+- **Ph.D. in Computer Science**, University of Florida, 2026 – Present
+- **B.S. in Computer Science**, University of Minnesota, Twin Cities, 2025
+- **B.S. in Computer Science** (Transfer), Wenzhou University of Technology, 2021 – 2024
 
 #### Links
 - **Email:** [jinhang.wei@ufl.edu](mailto:jinhang.wei@ufl.edu)
