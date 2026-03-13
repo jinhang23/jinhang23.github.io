@@ -1,3 +1,5 @@
+- **J. Wei**, Y. Zhang, et al. (2025). GatorAffinity: Boosting Protein-Ligand Binding Affinity Prediction with Large-Scale Synthetic Structural Data. **bioRxiv**. [[Paper]](https://doi.org/10.1101/2025)
+
 - **J. Wei**, Y. Zhu, L. Zhuo, et al. (2024). Efficient Deep Model Ensemble Framework for Drug-Target Interaction Prediction. **The Journal of Physical Chemistry Letters**. (Cover Article, Nature Index, JCR Q1). [[Paper]](https://doi.org/10.1021/acs.jpclett.4c01509)
 
 - **J. Wei**, L. Zhuo, X. Fu, et al. (2024). DrugReAlign: A Multisource Prompt Framework for Drug Repurposing Based on Large Language Models. **BMC Biology**. (JCR Q1). [[Paper]](https://doi.org/10.1186/s12915-024-02028-3)
@@ -13,3 +15,5 @@
 - R. Wang, T. Wang, L. Zhuo, **J. Wei**, et al. (2024). Diff-AMP: tailored designed antimicrobial peptide framework with all-in-one generation, identification, prediction and optimization. **Briefings in Bioinformatics**. (JCR Q1). [[Paper]](https://doi.org/10.1093/bib/bbae078)
 
 - Z. Zhou, Q. Liao, **J. Wei**, et al. (2024). Revisiting drug–protein interaction prediction: a novel global–local perspective. **Bioinformatics**. (JCR Q1). [[Paper]](https://doi.org/10.1093/bioinformatics/btae271)
+
+- Z. Zhou, **J. Wei**, M. Liu, L. Zhuo, X. Fu, Q. Zou, et al. (2025). AnomalGRN: deciphering single-cell gene regulation network with graph anomaly detection. **BMC Biology**. (JCR Q1).
