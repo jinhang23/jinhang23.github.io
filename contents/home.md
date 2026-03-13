@@ -16,7 +16,7 @@ Feel free to reach out if you'd like to chat about research or collaboration!
 
 - **Ph.D. in Computer Science**, University of Florida, 2026 – Present
 - **B.A. in Computer Science**, University of Minnesota, Twin Cities, 2025
-- **B.S. in Computer Science** (Transfer), Wenzhou University of Technology, 2021 – 2024
+- **B.Eng. in Computer Science** (Transfer), Wenzhou University of Technology, 2021 – 2024
 
 #### Links
 - **Email:** [jinhang.wei@ufl.edu](mailto:jinhang.wei@ufl.edu)
