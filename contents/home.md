@@ -8,8 +8,6 @@
 
 Hi, I'm **Jinhang Wei**, a Ph.D. student in Computer Science at the **University of Florida**, advised by Prof. [Yanjun Li](https://yanjun-li.com/). My research interests broadly lie in **AI-driven Drug Discovery (AIDD)**, with a current focus on **structure-based modeling of biomolecular interactions** among proteins, RNA, and small molecules. I am also interested in exploring the potential of **AI agents** for scientific discovery.
 
-Previously, my work has spanned AI-driven drug discovery, including drug-target interaction prediction, drug repurposing with large language models, and protein-ligand binding affinity prediction.
-
 Feel free to reach out if you'd like to chat about research or collaboration!
 
 #### Education
