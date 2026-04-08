@@ -175,12 +175,34 @@
     <footer class="bg-bottom text-center py-5">
         <div class="container px-5">
             <div class="text-white-50 small">
-                <div style="text-align: center; margin-top: 20px;">
-                    <!-- ClustrMaps 旧版本地图脚本 -->
-                    <!-- ClustrMaps 新版 Globe 脚本 -->
-                    <script type="text/javascript" id="clstr_globe"
-                        src="//clustrmaps.com/globe.js?d=bg274Io_2cZ_AzHnIBBsDLQcT28OWra8Le77_S6NI_8">
-                        </script>
+                <div id="clustrmaps-container" style="text-align: center; margin-top: 20px;">
+                    <!-- ClustrMaps Globe - skip loading for owner IPs -->
+                    <script>
+                        (function() {
+                            var blocked = ['128.227.', '24.136.'];
+                            fetch('https://api.ipify.org?format=json')
+                                .then(function(r) { return r.json(); })
+                                .then(function(data) {
+                                    var ip = data.ip;
+                                    for (var i = 0; i < blocked.length; i++) {
+                                        if (ip.indexOf(blocked[i]) === 0) return;
+                                    }
+                                    var s = document.createElement('script');
+                                    s.type = 'text/javascript';
+                                    s.id = 'clstr_globe';
+                                    s.src = '//clustrmaps.com/globe.js?d=bg274Io_2cZ_AzHnIBBsDLQcT28OWra8Le77_S6NI_8';
+                                    document.getElementById('clustrmaps-container').appendChild(s);
+                                })
+                                .catch(function() {
+                                    // If IP check fails, load anyway
+                                    var s = document.createElement('script');
+                                    s.type = 'text/javascript';
+                                    s.id = 'clstr_globe';
+                                    s.src = '//clustrmaps.com/globe.js?d=bg274Io_2cZ_AzHnIBBsDLQcT28OWra8Le77_S6NI_8';
+                                    document.getElementById('clustrmaps-container').appendChild(s);
+                                });
+                        })();
+                    </script>
                 </div>
                 <div id="copyright-text" class="mb-2"></div>
                 <a id="github-link" href="https://github.com/jinhang23">Github</a>
